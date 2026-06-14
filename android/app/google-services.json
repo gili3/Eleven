@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418964206430",
+    "project_id": "queen-beauty-b811b",
+    "storage_bucket": "queen-beauty-b811b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418964206430:android:5ad88fbe9ffb41d06bd5cf",
+        "android_client_info": {
+          "package_name": "com.eleven.sd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418964206430-qge3vqln3bdv4rofe8q485fceg0emj55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwnOYVM2g80oVEpkkjK-BuowzvYMaBRvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418964206430-qge3vqln3bdv4rofe8q485fceg0emj55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
